@@ -1,4 +1,4 @@
-###### ONLY FOR TESTING HOW TO UPLOAD ADAPTER!!!!!!!!
+###### ONLY FOR TESTING HOW TO UPLOAD ADAPTER!!!!!!!! !!!!!!!
 
 from bridge import Bridge
 
