@@ -1,6 +1,6 @@
-name: cl-ea-test-weather
-description: Adapter that connects Chainlink nodes to the Rinkeby_Test_Node match result web service
-node_identifier: 0xF59646024204a733E1E4f66B303c9eF4f68324cC
+name: CL-EA-Test-Weather
+description: Adapter that connects Chainlink nodes to the CL-EA-Test-Weather match result web service
+node_identifier: cl-ea-test-weather
 platforms:
   - Docker
   - AWS Lambda
