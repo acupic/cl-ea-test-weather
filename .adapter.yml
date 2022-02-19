@@ -1,0 +1,12 @@
+name: Rinkeby_Test_Node
+description: Adapter that connects Chainlink nodes to the Rinkeby_Test_Node match result web service
+node_identifier: cl-ea-test-weather
+platforms:
+  - Docker
+  - AWS Lambda
+  - GCP Functions
+data_sources:
+  - name: tidesandcurrents
+    url: https://pandascore.co/
+parameters:
+  - match_id_or_slug
